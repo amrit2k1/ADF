@@ -25,7 +25,7 @@ export default function TeamSection() {
   ];
 
   return (
-    <section className="relative z-10 bg-black text-white pt-16  md:py-24">
+    <section className="relative z-10 bg-black text-white pt-16  md:py-24" id="team">
       <div className="max-w-7xl mx-auto px-6 md:px-8">
         
         {/* Heading */}

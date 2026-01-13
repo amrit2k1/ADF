@@ -88,6 +88,7 @@ export default function ServicesSection() {
 
   return (
     <section
+      id="services"
       ref={sectionRef}
       className="relative z-10 bg-black text-white min-h-[300vh]"
     >
