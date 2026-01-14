@@ -63,7 +63,7 @@ export default function ContactSection() {
   };
 
   return (
-    <section lassName="relative z-10 bg-black py-12 md:py-16 lg:py-20 px-4 md:px-8" id="contact">
+    <section className="relative z-10 bg-black py-12 md:py-16 lg:py-20 px-4 md:px-8" id="contact">
       <div className="max-w-6xl mx-auto">
         <div className="bg-gradient-to-br from-gray-800/80 to-gray-900/80 backdrop-blur-lg rounded-2xl md:rounded-3xl p-6 md:p-10 lg:p-12 border border-gray-700/50 shadow-2xl">
           
